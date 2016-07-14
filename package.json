@@ -11,7 +11,12 @@
     "test": "ava"
   },
   "repository": "johnotander/to-domain",
-  "keywords": [],
+  "keywords": [
+    "domain",
+    "strip",
+    "name",
+    "alphanumeric"
+  ],
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
